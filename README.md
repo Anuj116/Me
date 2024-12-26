@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj116" alt="anuj116" /></a> </p>
 
-- 🌱 I’m currently learning **API Postman, JUnit, Cucumber**
+- 🌱 I’m currently learning **API Postman, JUnit, J-Meter**
 
 - 💬 Ask me about **Web Automation**
 
